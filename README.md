@@ -3,7 +3,7 @@
 
 
 ## Motivations  
-Short project using guidelines from https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub
+Short project using guidelines from https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub <br />
 As a technological stack I've used React for functional implementation
 
 ## How to run this project  
