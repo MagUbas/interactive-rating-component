@@ -1,0 +1,43 @@
+.thankYouBody{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.thankYouIcon{
+    background: url('illustration-thank-you.svg');
+    height: 130px;
+    width: 162px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.thankYouRating{
+    background-color:hsl(212, 15%, 24%);
+    height: 30px;
+    line-height: 32px;
+    margin:10px;
+    width: 200px;
+    border-radius: 15px;
+    color:hsl(25, 97%, 53%);
+
+}
+.thankYouText{
+    color:hsl(217, 12%, 63%);
+}
+
+@media only screen and (max-width: 375px) {
+    .thankYouIcon{
+        background-size: 140px;
+        margin-top: 20px;
+        height: 110px;
+        width: 140px;
+    }
+    .thankYouRating{
+        width: 180px;
+    }
+    .thankYouBody h1{
+        margin: 12px;
+    }
+  }
+
