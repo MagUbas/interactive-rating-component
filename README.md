@@ -1,5 +1,8 @@
 # Interactive Rating Component
 ![interactiveRating](https://user-images.githubusercontent.com/105423536/213127027-67a3ceb1-4677-429a-ba94-08ea484dce64.gif)
+<br />
+[Live site](https://interactive-rating-component-five-mu.vercel.app/)
+
 
 
 ## Motivations  
